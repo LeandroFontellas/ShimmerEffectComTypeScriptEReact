@@ -1,3 +1,5 @@
+link para o video do tutorial: https://www.youtube.com/watch?v=-ZV-_7vNRGw
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
